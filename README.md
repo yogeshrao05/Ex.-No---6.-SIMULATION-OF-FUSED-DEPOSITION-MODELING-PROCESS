@@ -50,8 +50,8 @@ Power Down the Printer: Once the print has been canceled or completed, it's good
 Clean Up: Clean the print bed and remove any remaining filament from the extruder, especially if you don't plan to start another print immediately. Store the filament properly, either by returning it to the spool or using filament storage containers to protect it from moisture and dust.
 ## Output:
 
-### Name:P.Pradeep Raj
-### Register Number:212222240073
+### Name: yogesh rao S D
+### Register Number:212222110055
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
